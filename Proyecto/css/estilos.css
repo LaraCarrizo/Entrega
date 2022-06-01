@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Poppins:wght@200&display=swap');
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    background-color: white;
+}
+
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 800;
+    src: url(../fuentes/RobotoCondensed-Bold.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    src: url(../fuentes/RobotoCondensed-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 200;
+    src: url(../fuentes/RobotoCondensed-Italic.ttf);
+}
+
+@font-face {
+    font-family: Oswald;
+    font-weight: 900;
+    src: url(../fuentes/Oswald-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: Oswald;
+    font-weight: 800;
+    src: url(../fuentes/Oswald-Light.ttf);
+}
+
+h1 { font-family: Oswald;
+    font-weight: 800;
+    font-size: 8.14em;
+    color: rgb(18, 48, 61)
+}
+
+p {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 2em;
+    color: rgb(18, 48, 61)
+
+}
+
+p3 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1em;
+    color: rgb(18, 48, 61)
+}
+
+p4 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1em;
+    color: rgb(18, 48, 61)
+}
+
+p5 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1em;
+    color: rgb(18, 48, 61)
+}
+
+p6 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1em;
+    color: rgb(18, 48, 61)
+}
+
+p7 {
+    font-family: Roboto;
+    font-weight: 200;
+    font-size: 1.5em;
+    color: rgb(18, 48, 61)
+}
+
+
+
